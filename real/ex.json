@@ -1,0 +1,12 @@
+{
+  "who": [],
+  "sex" : 0,
+  "age" : [],
+  "destination" : "",
+  "instruction" : [],
+  "direct" : [],
+  "indirect" :[],
+  "img" : [],
+  "caption" : [],
+  "extraction" : []
+}
